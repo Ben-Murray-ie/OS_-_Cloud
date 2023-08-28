@@ -11,7 +11,7 @@ In this project, we learned to create and host a Wordpress site on an AWS instan
 * Create a blank database in PHPMyAdmin.
 * Create a directory in the htdocs folder of your XAMPP installation to house the Wordpress site.
 * Download and install Wordpress following the on-screen instructions.
-* Install All-in-One Wordpress Migration plugin by ServMask - https://servmask.com/?locale=en
+* Install All-in-One Wordpress Migration plugin by ServMask - https://servmask.com
 * Use All-in-One Wordpress Migration plugin to import .wpress file.
 * Once import is complete, the site should be available locally to browse.
 
